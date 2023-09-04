@@ -15,7 +15,7 @@
 <section>
 <h2 style="font-family:calibri;">The group </h2>
 <p style="font-family:calibri;"> Zihang Chen </p>
-<p style="font-family:calibri;"> <img src="Denise.jpeg" Dovani Denise </p>
+<p style="font-family:calibri;"> Dovani Denise </p>
 </section>
 
 </body>
