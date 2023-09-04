@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-img {
-  float: left;
-}
-</style>
 </head>
 <body>
 
