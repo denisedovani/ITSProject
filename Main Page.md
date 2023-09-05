@@ -4,20 +4,24 @@
 </head>
 <body>
 
-<h1 style="font-family:calibri;"> <i> Revolutionary Rhythms </i> </h1>
-<img src="img.jpg"; width="700" height="700">
+<h1 align="center"; style="font-family:calibri;"> <i> Revolutionary Rhythms </i> </h1>
+<p align="center">
+  <img align="center" src="img.jpg"; width="700" height="700">
+</p>
+<br>
 
 <section>
 <h2 style="font-family:calibri;"> Presentation of the project </h2>
 <p style="font-family:calibri;"> The present project traces the rise of rock 'n' roll as a cultural phenomenon, examining data on album sales, radio airplay, and fan demographics. It highlights influential rock artists and their contributions, as well as the genre's enduring influence on popular music.</p>
 </section>
+<br>
 
 <section>
 <h2 style="font-family:calibri;"> About us </h2>
 <p style="font-family:calibri;"> Zihang Chen </p>
   <p style="font-family:calibri;"> <i> Insert presentation </i> </p>
-<p style="font-family:calibri;"> Dovani Denise </p>
-  <img src="Denise.jpg"; width="150" height="150">
+ <img align="left" src="Denise.jpg"; width="100" height="100">
+  <p style="font-family:calibri;"> Dovani Denise </p>
     <p style="font-family:calibri;"> <i> Insert presentation </i> </p>
 </section>
 
