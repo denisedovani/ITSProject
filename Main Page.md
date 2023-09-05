@@ -17,7 +17,7 @@
 <p style="font-family:calibri;"> Zihang Chen </p>
   <p style="font-family:calibri;"> <i> Insert presentation </i> </p>
 <p style="font-family:calibri;"> Dovani Denise </p>
-  <img src="Denise.jpg";>
+  <img src="Denise.jpg"; width="150" height="150">
     <p style="font-family:calibri;"> <i> Insert presentation </i> </p>
 </section>
 
