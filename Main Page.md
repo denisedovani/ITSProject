@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1 style="font-family:calibri; text-align:center;"> <i> Revolutionary Rhythms </i> </h1>
+<h1 style="font-family:calibri;"> <i> Revolutionary Rhythms </i> </h1>
 <img src="img.jpg">
 
 <section>
@@ -15,7 +15,9 @@
 <section>
 <h2 style="font-family:calibri;">The group </h2>
 <p style="font-family:calibri;"> Zihang Chen </p>
+  <p style="font-family:calibri;"> <i> Insert presentation </i> </p>
 <p style="font-family:calibri;"> Dovani Denise </p>
+    <p style="font-family:calibri;"> <i> Insert presentation </i> </p>
 </section>
 
 </body>
