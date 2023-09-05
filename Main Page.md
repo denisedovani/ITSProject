@@ -5,7 +5,7 @@
 <body>
 
 <h1 style="font-family:calibri;"> <i> Revolutionary Rhythms </i> </h1>
-<img src="img.jpg">
+<img src="img.jpg"; width="700" height="700">
 
 <section>
 <h2 style="font-family:calibri;"> Presentation of the project </h2>
