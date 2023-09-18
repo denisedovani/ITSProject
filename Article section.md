@@ -22,7 +22,7 @@ Rock music permeates our lives with its extensive influence on popular culture. 
 <br>
 
 <h3 style="font-family:calibri;"> Rock 'n' roll in Italy </h3>
-<img align="left" src="Upload/barchart.png";> 
+<img align="left" src="Upload/Barchart.jpg"; width="546" height="284"> 
 
 </body>
 </html>
