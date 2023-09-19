@@ -3,7 +3,11 @@
 <head>
 </head>
 <body>
-
+       <div class="navigation">
+	    <a href="Article Section.md">Article Section</a> |
+            <a href="Report.md">Report</a>  
+                  </div>
+        <div class="content">
 <h1 align="center"; style="font-family:calibri;"> <i> Revolutionary Rhythms </i> </h1>
 <p align="center">
   <img align="center" src="img.jpg"; width="700" height="700">
