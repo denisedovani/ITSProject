@@ -15,8 +15,8 @@ Rock music permeates our lives with its extensive influence on popular culture. 
 </p>
 <br>
 
-<p align="center"> <a href= https://projects.dharc.unibo.it/melody/1695058312.627918/revolutionary_rhythms> <img align="center" src="Upload/Map.jpg"; width="749" heigth="412"> </p> <br>
-<h3 style="font-family:calibri;"> Origins of the rock genre </h3>
+<p align="center"> <a href= https://projects.dharc.unibo.it/melody/1695058312.627918/revolutionary_rhythms> <img align="center" src="Upload/Map.jpg"; width="749" heigth="412"> </a> </p> <br>
+<h3 style="font-family:ca libri;"> Origins of the rock genre </h3>
 <a href= https://projects.dharc.unibo.it/melody/1695058312.627918/revolutionary_rhythms> <table align="left">&nbsp;<thead><tr><th>human</th><th>pic</th></tr></thead><tbody><tr><td><a class="table_result" href="http://www.wikidata.org/entity/Q303">Elvis Presley</a></td><td><img src="Upload/Elvis_Presley.jpg"; width="267" height="344"></td></tr><tr><td><a class="table_result" href="http://www.wikidata.org/entity/Q1203">John Lennon</a></td><td><img src="Upload/John_Lennon.jpg"; width="245" height="353"></td></tr><tr><td><a class="table_result" href="http://www.wikidata.org/entity/Q633">Neil Young</a></td><td><img src="Upload/Neil_Young.jpg"; width="244" height="293"></td></tr><tr><td><a class="table_result" href="http://www.wikidata.org/entity/Q392">Bob Dylan</a></td><td><img src="Upload/Bob_Dylan.jpg"; width="255" height="308"></td></tr><tr><td><a class="table_result" href="http://www.wikidata.org/entity/Q557">Patti Smith</a></td><td><img src="Upload/Patti_Smith.jpg"; width="283" height:"303"></td></tr></tbody></table>
 <h4 style="font-family:calibri;"> 1950's: The Birth of Rock & Roll </h4>
  <p align="justify";> The Big Band or Swing era of the 1930s and 1940s had a big influence on pop performers in the 1950s, who dominated the US pop charts with lush orchestration. In the early 1950s, Latin and calypso music became popular and introduced more dancing rhythms. Western Swing, a fast dance style, was popular in the 1930s and 1940s in country music. The late 40s and early 50s R&B charts included a blend of up-tempo jazz and blues, commonly described as jump blues, performed by small combos in a beat-heavy style. The music was mostly composed by and for black Americans. Covers of these new genres become Pop chart smashes for white pop musicians. R&B, Electric Blues, gospel, and country-influenced Rock and roll Over numerous years, many R&B performers helped shape the "rock and roll" sound. This slow transition and multiple inspirations make it hard to name the "first" rock and roll music, though there are several contenders.
@@ -39,7 +39,7 @@ Thanks to computer and software advances, personal PCs can create and record dig
 <br>
 <br>
 
-<p> <a href= https://projects.dharc.unibo.it/melody/1695058312.627918/revolutionary_rhythms> <img align="right" src="Upload/Barchart.jpg"; width="546" height="284"> </p>
+<p> <a href= https://projects.dharc.unibo.it/melody/1695058312.627918/revolutionary_rhythms> <img align="right" src="Upload/Barchart.jpg"; width="546" height="284"> </p> </a>
 <p align="justify"; style="font-family:calibri"> We retrieved album releases according to a chronological order. By looking at the chart, we can infer that the first registered albums date back to the mid-1950s.
 These are just some of the instances of pioneering rock and roll albums:
   <br>
@@ -53,11 +53,12 @@ These are just some of the instances of pioneering rock and roll albums:
 <p align="justify"; style="font-family:calibri;"> As the genre acquired popularity, we can observe an exponential growth in the number of albums releases. If we consider the number of releases between the 1950s and the 1960s, we can notice how, in the span of a decade alone, the amount of rock and roll albums published increased from 57 to 396. </p>
 <br>
 
+<p align="center"> <a href=https://projects.dharc.unibo.it/melody/1695058312.627918/revolutionary_rhythms> <img align="center" src="Upload/Count2.jpg"; width="350" height="169"> </a> </p> <br>
 <h3 style="font-family:calibri;"> Rock 'n' roll in Italy </h3>
-<p style="font-family:calibri;"> Rock and roll arrived in Italy in the second half of the 1950s, however it is only in the mid-1960s that this genre explodes in its popularity. Thanks to the Beat movement, Italy sees the emergence of the first Italian rock bands, which at the time provided a musical repertoire mainly consisting of cover of foreign hits. By the end of the decade, a real style of Italian rock seems to appear: the Italian progressive rock. This subgenre aimed at creating a counterculture around pop music by experimentation and exploration of sounds, rhythms and durations combined with the creation of evocative texts and concept albums. The trend later died down in the mid-1970s, when rock  itself into multiple new directions. </p>
+<p align="justify"; style="font-family:calibri;"> Rock and roll arrived in Italy in the second half of the 1950s, however it is only in the mid-1960s that this genre explodes in its popularity. Thanks to the Beat movement, Italy sees the emergence of the first Italian rock bands, which at the time provided a musical repertoire mainly consisting of cover of foreign hits. By the end of the decade, a real style of Italian rock seems to appear: the Italian progressive rock. This subgenre aimed at creating a counterculture around pop music by experimentation and exploration of sounds, rhythms and durations combined with the creation of evocative texts and concept albums. The trend later died down in the mid-1970s, when rock  itself into multiple new directions. </p>
 <br>
 
-<p> <a href= https://projects.dharc.unibo.it/melody/1695058312.627918/revolutionary_rhythms> <img align="right" src="Upload/Doughnutchart.jpg"; width="417" height="235"> </p>
+<p> <a href=https://projects.dharc.unibo.it/melody/1695058312.627918/revolutionary_rhythms> <img align="right" src="Upload/Doughnutchart.jpg"; width="417" height="235"> </p> </a>
 <p align="justify"; style="font-family:calibri";> <i> <b> What are the major rock subgenres which are being played in Italy? </i> </b> </p>
 <p align="justify"; style="font-family:calibri";> <b> Psychedelic rock </b>: originated in the 1960s, this type of rock music is characterised by distorted guitars, experimental sounds and drug-induced lyrics. You can hear instance of this style by listening to Twenty Four Hours. <br>
 <b> Hard rock </b>: emerged in the late 1960s, this genre is characterized by its heavy use of electric guitars, drums, and vocals. The rhythms of Essenza and Il Bacio della Medusa greatly encompass this genre. <br>
