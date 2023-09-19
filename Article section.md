@@ -68,7 +68,9 @@ These are just some of the instances of pioneering rock and roll albums:
 <b> Hard rock </b>: emerged in the late 1960s, this genre is characterized by its heavy use of electric guitars, drums, and vocals. The rhythms of Essenza and Il Bacio della Medusa greatly encompass this genre. <br>
 <b> Punk rock </b>: developed in the 1970s as a reaction against the excesses attributed to psychedelic and progressive rock, this subgenre was a simplified style of music that promoted simplicity and raw energy. Tre Allegri Ragazzi Morti, Banda Bassotti, Punkreas are just three of the vast range of Italian punk rock bands. <br>
 <b> Alternative rock </b>: originated in the 1980s, one of its main characteristics is its experimentation with musical styles and its incorporation of elements from other genres, such as punk and folk. Måneskin and Afterhours are a famous example of this style. </p> <br>
-
+<br>
+<br>
+<p align="justify"; style="fornt-family:calibri";> The impact of rock and roll on popular culture is indescribable. It brought a new sound and energy to pop music and inspired a new generation of artists. It provided a platform for social change and helped to bring together people of different backgrounds, cultures, and races. Rock and roll has influenced fashion, art, and lifestyle, and still continues to be very powerful to this day. And just like Måneskin said when celebrating their victory at the Eurovision Song Contest in 2021, “Rock and roll never dies!” </p>
   
 </body>
 </html>
