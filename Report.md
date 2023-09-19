@@ -3,9 +3,10 @@
 <head>
 </head>
 <body>
- <div class="navigation">
-	    <a href="Main page.md">Main Page</a>  
-         <a href="Article section.md">Article Section</a> | </div>
+ < <div class="navigation">
+	    <a href="Main Page.md">Main Page</a> |
+            <a href="Article section">Article Section</a>  
+                  </div>
         <div class="content">
 <h1 style="font-family:calibri; text-align:center;"> <i> Revolutionary Rhythms </i> </h1>
 
