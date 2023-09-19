@@ -4,7 +4,7 @@
 </head>
 <body>
         <div class="navigation">
-	    <a href="Main Page.md">Main page</a> |
+	    <a href="Main Page.md">Main Page</a> |
             <a href="Report.md">Report</a>  
                   </div>
         <div class="content">
