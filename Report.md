@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
- < <div class="navigation">
+ <div class="navigation">
 	    <a href="Main Page.md">Main Page</a> |
             <a href="Article section">Article Section</a>  
                   </div>
