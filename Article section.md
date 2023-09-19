@@ -3,7 +3,14 @@
 <head>
 </head>
 <body>
-
+<div class="title">
+	    <h1>Piano</h1>
+        </div>
+        <div class="navigation">
+	    <a href=".Main Page.md">Main page</a> |
+            <a href="Report.md">Report</a>  
+                  </div>
+        <div class="content">
 <h1 align="center"; style="font-family:calibri;"> <i> Revolutionary Rhythms </i> </h1>
 
 <h2 style="font-family:calibri;"> Article </h2>
