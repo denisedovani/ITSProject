@@ -21,7 +21,6 @@
 <p style="font-family:calibri;"> Zihang Chen </p>
 <p style="font-family:calibri;">  Student of the master's degree course in <i> Language, Society and Communication </i> at the University of Bologna. Studies English and German. </p>
   <br>
-<img align="left" src="Denise.jpg"; width="100" height="100">
 <p style="font-family:calibri;"> Dovani Denise </p>
 <p style="font-family:calibri;">  Student of the master's degree course in <i> Language, Society and Communication </i> at the University of Bologna. Studies English and Russian. </p>
 </section>
