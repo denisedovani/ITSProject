@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: White; 
+    background-color: orange; 
 }
 h1{
     margin: 0;
@@ -8,7 +8,7 @@ h1{
     vertical-align: middle;
 }
 div.title{
-    background-color: White;
+    background-color: yellow;
     padding: 20px 0 20px 0;
 }
 a {
@@ -16,10 +16,10 @@ a {
     color: black;
 }
 a:hover {
-    color: DarkBlue ;
+    color: gold ;
 }
 div.navigation{
-    background-color: White;
+    background-color: yellow;
     padding: 10px 0 10px 10px;
 }
 div.content{
@@ -37,5 +37,5 @@ h4{
 }
 
 table{
-    background-color: #F88379;
+    background-color: burgundy;
 }
