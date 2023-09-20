@@ -1,6 +1,7 @@
 body{
     margin: 8px;
     background-color:#F88379; 
+    padding: 30px 50px 30px 50px;
 }
 h1{
     margin: 0;
@@ -9,7 +10,7 @@ h1{
 }
 div.title{
     background-color: yellow;
-    padding: 20px 0 20px 0;
+    padding: 30px 0 30px 0;
 }
 a {
     text-decoration: none;
